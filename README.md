@@ -5,7 +5,7 @@ them. With this, it ended up taking quite a long time to process. This would be 
 message asking for the point, sending it over, and receiving the value back. It would then be repeated
 until finished.
 
-![](1000 Datapoints Graph.PNG)
+![](images/1000 Datapoints Graph.PNG)
 
 After processing points, I switched over to transferring files byte by byte. For this, I opened each file
 by first requesting the size with a standard request, then changing the standard request to request each
