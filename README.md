@@ -1,4 +1,4 @@
-# Client-Server
+# <center> Client-Server
 For this project, I created a file transfer which made use of request channels. For this, I made one
 function which requested a single point in a csv. Using this, I was able to transfer 1000 points and time
 them. With this, it ended up taking quite a long time to process. This would be done by creating a
